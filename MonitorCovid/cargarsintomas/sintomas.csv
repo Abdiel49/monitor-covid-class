@@ -1,10 +1,9 @@
-sintomas.Importante,DOLOR CORPORAL
-sintomas.TomarEnCuenta,DOLOR DE OJOS
-sintomas.Importante,VOMITOS
-sintomas.Importante,DIARREA
-sintomas.Importante,SECRECION O CONGESTION NASAL
-sintomas.TomarEnCuenta,OJOS ARDIENTES
-sintomas.TomarEnCuenta,DOLOR DE GARGANTA
-sintomas.SegundaFase,DOLOR EN LA ESPALDA BAJA
 sintomas.SegundaFase,DOLOR EN EL PECHO
-sintomas.SegundaFase,OTRA COSA
+sintomas.SegundaFase,DOLOR CORPORAL
+sintomas.SegundaFase,DOLOR DE OJOS
+sintomas.SegundaFase,VOMITOS
+sintomas.SegundaFase,DIARREA
+sintomas.SegundaFase,SECRECION O CONGESTION NASAL
+sintomas.SegundaFase,OJOS ARDIENTES
+sintomas.SegundaFase,DOLOR DE GARGANTA
+sintomas.SegundaFase,DOLOR EN LA ESPALDA BAJA
